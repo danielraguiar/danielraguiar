@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-(Java | NodeJS | Kotlin | GO | NextJS | Javascript | HTML | CSS | Typescript | ReactJS | Spring Boot ) 🚀
+(Java | Python | NodeJS | Kotlin | GO | NextJS | Javascript | HTML | CSS | Typescript | ReactJS | Spring Boot ) 🚀
 
 👩‍💻 Software Enginner at NTT Data Europe & Latam<br>
 🎓 Bachelor of Computer Science at Universidade Católica de Brasília<br>
